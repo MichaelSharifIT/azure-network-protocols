@@ -34,7 +34,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jE4avGc.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h3>Observe ICMP Traffic</h3>
@@ -56,7 +56,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J0YnD3J.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h3>Observe SSH Traffic</h3>
@@ -70,7 +70,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nCCPjVw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h3>Observe DHCP Traffic</h3>
@@ -83,7 +83,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bB8jYer.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h3>Observe DNS Traffic</h3>
@@ -96,7 +96,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZfrCeWE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h3>Observe RDP Traffic</h3>
